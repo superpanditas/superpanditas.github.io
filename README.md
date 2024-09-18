@@ -1,5 +1,9 @@
 # Data Scientist
 
+#### Programming Languages: SQL, Python, Bash Scripting & PySpark (Familiarity)
+#### Analytical Tools and Frameworks: Hadoop (MapReduce), Airflow, & Git
+#### Modeling Techniques: EDA, Data Cleaning, Feature Engineering, Data Viz, Supervised and Unsupervised Algorithms, and A/B Testing
+
 ### Education 
 Mathematics B.s Degree
 
